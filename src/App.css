@@ -1,0 +1,18 @@
+h1 {
+  color: red;
+}
+
+
+button {
+ background-color: aquamarine;
+}
+
+
+body {
+  display: flex;
+  flex-direction: center;
+  justify-content: center;
+  background-color: blueviolet;
+}
+
+
